@@ -8,9 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Software Engineer with a strong passion for building impactful solutions.
-- 🌍 Based in Ethiopia, focusing on backend development, mobile app development, and competitive programming.
-- 💡 Always learning and exploring new tools and technologies to improve my craft.
+- 👨‍💻 Software Engineer passionate about backend and frontend development.
+- 🛠 Skilled in building seamless, user-friendly applications from end to end.
+- 🌍 Based in Ethiopia and constantly learning to expand my tech stack.
+- 💡 Motivated to create impactful solutions that merge functionality and design.
 
 ---
 
