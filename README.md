@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samuel Endale</h1>
-<div align="center">
-    <img src="https://i.postimg.cc/C1k6J3bB/dv-photo.jpg" alt="Samuel Endale" width="200" style="border-radius: 10%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
-</div>
 <h3 align="center">Software Engineer | Passionate Problem-Solver | Based in Ethiopia</h3>
 
 <p align="center">
